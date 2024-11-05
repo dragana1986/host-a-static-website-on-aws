@@ -1,4 +1,4 @@
-!{Alt text](/Host-a-static-website-on-aws.png).
+!{Alt text](/Host_a_Static_Website_on_AWS (2).png).
 # Host a Static Website on AWS - Project README
 
 This repository contains the implementation details and scripts used to deploy a static HTML web application on Amazon Web Services (AWS). The goal of this project was to host a simple, static website on AWS using several key resources and best practices to ensure scalability, security, and high availability.
